@@ -1,0 +1,5 @@
+//<'Blackhawk_camo2.pbo' properties via Mikero's dos tools, dll version 8.35>
+product=dayz ugc;
+prefix=Blackhawk_camo2;
+//PboType=Arma Addon;
+//</properties>
